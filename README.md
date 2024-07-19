@@ -4,7 +4,7 @@
 This project demonstrates real-time data streaming from a JSON file to an Amazon Kinesis Data Stream using a Python script. The script reads data from a JSON file, processes it, and sends it to a specified Kinesis Data Stream at regular intervals.
 
 ## Work Flow
-![Work Flow] (images/workflow.png)
+![Work Flow](images/workflow.png)
 
 ## Features
 - **Real-Time Data Streaming:** Continuously sends data to Amazon Kinesis in real-time.
