@@ -23,7 +23,7 @@ This project demonstrates real-time data streaming from a JSON file to an Amazon
 - **Clone the Repository:**
 
 ```
-git clone https://github.com/your-username/real-time-data-streaming.git
+git clone https://github.com/Komalsai234/Stream-Data-from-CSV-File-to-AWS-Kinesis.git
 ```
 
 - **Install Dependencies:**
