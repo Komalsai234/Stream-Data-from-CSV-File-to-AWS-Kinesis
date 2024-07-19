@@ -44,6 +44,8 @@ To run the script, use the following command:
 ```
 python send_to_kinesis.py --stream_name <YOUR_STREAM_NAME> --interval <INTERVAL_IN_SECONDS>
 ```
---stream_name: The name of your Kinesis Data Stream.
 
---interval: The time interval (in seconds) between two writes to the Kinesis stream.
+
+    **--stream_name:** The name of your Kinesis Data Stream.
+    
+    **--interval:** The time interval (in seconds) between two writes to the Kinesis stream.
